@@ -20,10 +20,10 @@ You must have **gifsicle** installed on your system.
 
 ## Usage
 
-1.  Place the `resizer.py` script into the folder containing your GIFs.
+1.  Place the `gifResizer.py` script into the folder containing your GIFs.
 2.  Run the script:
     ```bash
-    python resizer.py
+    python gifResizer.py
     ```
 3.  Enter your desired width and height.
 4.  Choose your aspect ratio handling method.
